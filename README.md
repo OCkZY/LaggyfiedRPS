@@ -17,7 +17,7 @@ As of 24 users that have been chosen to use this mod, their usual fps have incre
 We do not take any actions if you are banned using this mod. Be cautious.
 
 # Versions:
-> [!WARNING]
+> [!CAUTION]
 > Versions that are not in a stable branch WILL have bugs. Use at your own risk.
 
 <table>
